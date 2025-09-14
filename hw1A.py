@@ -1,3 +1,7 @@
+'''
+cм. https://colab.research.google.com/github/girafe-ai/ml-course/blob/25f_ml_trainings_4/homeworks/hw01_classification_and_attention/01_attention.ipynb#scrollTo=yoYa0SSBWLOa
+'''
+
 import numpy as np
 
 def softmax(vector):
