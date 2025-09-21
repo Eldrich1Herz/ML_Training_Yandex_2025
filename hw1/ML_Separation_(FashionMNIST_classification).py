@@ -6,7 +6,6 @@
 cм. https://colab.research.google.com/github/girafe-ai/ml-course/blob/25f_ml_trainings_4/homeworks/hw01_classification_and_attention/02_hw_fmnist_classification.ipynb
 """
 
-
 import json
 import os
 import numpy as np
