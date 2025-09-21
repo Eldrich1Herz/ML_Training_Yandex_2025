@@ -1,3 +1,12 @@
+"""
+Решите задачу Separation (hw_fmnist) репозитории https://github.com/girafe-ai/ml-course/tree/25s_ml_trainings_3 в папке homeworks/hw01_classification.
+После решения задачи классификации сгенерируйте посылку и загрузите в данную задачу submission_dict_task_1.json. Для этого файл hw**_data_dict.json из папки с задачей должен находиться в той же директории, что и ноутбук. Скрипт для автоматической загрузки доступен в ноутбуке, но при возникновении ошибок попробуйте скачать файл вручную.
+Сгенерированный объект отправьте для сдачи в контест.
+
+cм. https://colab.research.google.com/github/girafe-ai/ml-course/blob/25f_ml_trainings_4/homeworks/hw01_classification_and_attention/02_hw_fmnist_classification.ipynb
+"""
+
+
 import json
 import os
 import numpy as np
