@@ -1,0 +1,23 @@
+# Core numerical and data processing
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+
+# Reinforcement learning environments
+gymnasium>=1.0.0
+pygame>=2.5.0  # Required for some gymnasium rendering
+
+# Machine learning (for potential extensions)
+scikit-learn>=1.3.0
+torch>=2.0.0
+
+# Utilities
+ipython>=8.0.0  # For clear_output functionality
+
+#If you want only the essential packages:
+#numpy>=1.24.0
+#pandas>=2.0.0
+#matplotlib>=3.7.0
+#gymnasium>=1.0.0
+#pygame>=2.5.0
+#ipython>=8.0.0
