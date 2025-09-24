@@ -1,0 +1,1 @@
+* Policy Gradient (REINFORCE) implementation: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/ml-course/blob/25f_ml_trainings_4/homeworks/hw04_policy_gradient/01_reinforce.ipynb)
